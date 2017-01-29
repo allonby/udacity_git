@@ -1,0 +1,23 @@
+pros of version control
+
+need to put down thoughts
+easy to go back to previous working versions
+collaborate more easily
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+with manual saving you ensure that commits are sensible in case your devs are clever enough
+
+
+why does git safe the state of multiple files per commit
+you want to be able to get back to the complete version of the program, therefor you need all the files in the correct version of the commit
+
+
+How can you use the commands git log and git diff to view the history of files?
+use git log to see the log and git diff id1 id2 to see the difference between 2 commits, don't forget to scroll down with the arrow key, also q ends the git log
+
+
+How might using version control make you more confident to make changes that could break something?
+you always have the latest working version so you can always go back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+we will use git to build our app
