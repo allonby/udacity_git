@@ -3,3 +3,7 @@ A: git initalises the repository and adds the hidden .git file. This is necessar
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: staging area changes can be commited to the master or not, this is good to test new features
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can check what changes there are in the staging area before you commit, using git diff --staging will compare the most
+  recent commit to the staging area. git diff will compare the working directory with the staging area
