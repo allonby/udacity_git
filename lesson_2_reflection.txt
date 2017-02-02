@@ -9,4 +9,10 @@ A: You can check what changes there are in the staging area before you commit, u
   recent commit to the staging area. git diff will compare the working directory with the staging area
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-A: Branches are useful when testing out experimental features that you are not sure you want in the master branch already. 
+A: Branches are useful when testing out experimental features that you are not sure you want in the master branch already.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Helps because git log output is somewhat crpytpic to read and you can draw branches more clearly.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Merging combines the two branches. This means that all commits will show in the git log.
