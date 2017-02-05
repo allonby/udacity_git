@@ -16,3 +16,6 @@ A: Helps because git log output is somewhat crpytpic to read and you can draw br
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: Merging combines the two branches. This means that all commits will show in the git log.
+
+Q:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: pro - automatic merging is fast, complete and easy but con can't understand what the code is trying to do. manually merging takes more time is also error prone.
