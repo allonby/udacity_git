@@ -3,3 +3,6 @@ A: when collaborating keeping all files local is not practical.
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: You want to know exactly how the code changed before altering it further.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: fork: clone ffrom repository on github, clone: clone of repository, branch: alternative "state" of repository
