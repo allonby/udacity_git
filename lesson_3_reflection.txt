@@ -9,3 +9,6 @@ A: fork: clone ffrom repository on github, clone: clone of repository, branch: a
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: It's easy to compare what changes you have made since the last time you checked the remote.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: You would need to sync up a lot and keep sure to talk to each other before updating the code. Would be a lot harder.
